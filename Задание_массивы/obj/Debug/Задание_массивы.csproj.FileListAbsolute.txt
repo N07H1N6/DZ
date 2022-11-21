@@ -1,0 +1,8 @@
+C:\Users\pavel\Documents\VS22\Задание_массивы\bin\Debug\Задание_массивы.exe.config
+C:\Users\pavel\Documents\VS22\Задание_массивы\bin\Debug\Задание_массивы.exe
+C:\Users\pavel\Documents\VS22\Задание_массивы\bin\Debug\Задание_массивы.pdb
+C:\Users\pavel\Documents\VS22\Задание_массивы\obj\Debug\Задание_массивы.csproj.AssemblyReference.cache
+C:\Users\pavel\Documents\VS22\Задание_массивы\obj\Debug\Задание_массивы.csproj.SuggestedBindingRedirects.cache
+C:\Users\pavel\Documents\VS22\Задание_массивы\obj\Debug\Задание_массивы.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Documents\VS22\Задание_массивы\obj\Debug\Задание_массивы.exe
+C:\Users\pavel\Documents\VS22\Задание_массивы\obj\Debug\Задание_массивы.pdb
